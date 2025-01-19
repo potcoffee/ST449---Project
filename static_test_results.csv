@@ -1,0 +1,11 @@
+Test,Grid Dimensions,Obstacles,Dynamic,Survivors Rescued,Resources Collected,Energy Used,Steps Taken,Computation Time (s)
+1,8x8,5,False,3,2,5,15,0.0005
+2,8x8,5,False,3,2,15,25,0.0009
+3,8x8,5,False,3,2,20,25,0.0007
+4,8x8,5,False,3,2,20,25,0.0007
+5,8x8,5,False,3,2,13,23,0.0007
+6,8x8,5,False,3,2,11,21,0.0009
+7,8x8,5,False,3,2,8,18,0.0006
+8,8x8,5,False,3,1,20,20,0.0006
+9,8x8,5,False,3,2,6,16,0.0022
+10,8x8,5,False,3,1,20,20,0.0014
