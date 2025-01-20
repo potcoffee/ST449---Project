@@ -1,0 +1,9 @@
+Agent Name,Scenario ID,Steps Taken,Survivors Rescued,Resources Collected,Energy Used,Computation Time (s)
+DijkstraAgent,0,20,1,0,20,0.0010340213775634766
+DijkstraAgent,1,20,1,0,20,0.0005459785461425781
+DijkstraAgent,2,20,0,0,20,0.0009379386901855469
+DijkstraAgent,3,20,1,0,20,0.001207113265991211
+DijkstraAgent,4,6,1,1,6,0.00016808509826660156
+DijkstraAgent,5,20,1,0,20,0.0030820369720458984
+DijkstraAgent,6,20,1,0,20,0.0008490085601806641
+DijkstraAgent,7,20,3,0,20,0.0011119842529296875

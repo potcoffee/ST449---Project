@@ -1,7 +1,0 @@
-Agent Name,Environment,Width,Height,Num Obstacles,Num Survivors,Num Resources,Initial Energy,Steps Taken,Survivors Rescued,Resources Collected,Energy Used,Dynamic Changes,Computation Time (s)
-DijkstraAgent,Static,8,8,5,3,2,20,19,3,2,19,0,0.0007059574127197266
-DijkstraAgent,Dynamic,8,8,5,3,2,20,20,3,2,20,4,0.0008640289306640625
-DijkstraAgent,Static,8,8,5,3,2,20,20,3,1,20,0,0.0006961822509765625
-DijkstraAgent,Dynamic,8,8,5,3,2,20,20,1,0,20,4,0.0011627674102783203
-DijkstraAgent,Static,8,8,5,3,2,20,20,3,2,20,0,0.002050161361694336
-DijkstraAgent,Dynamic,8,8,5,3,2,20,20,1,0,20,4,0.0011260509490966797
